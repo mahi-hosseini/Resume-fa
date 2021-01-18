@@ -25,7 +25,7 @@
 <h1>مهارت ها</h1>
 
 <ul>
-</li>javascript<li>
+<li>javascript</li>
   <li>java</li>
   <li>ICDL<\li>
   <li>C++</li>
