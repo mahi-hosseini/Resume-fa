@@ -42,10 +42,12 @@
 <li> انگلیسی </li>
 </ul>
 
-<br/>
+<br>
 
 <h1> حساب های کاربری </h1>
-  <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc"> _mahiii.h_ </a></li>
+  <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc"> صفحه ی شخصی </a></li>
+  <li>اینستاگرام: <a href="https://instagram.com/_mahiii.art_?igshid=843xjbt2wstc"> صفحه ی نقاشی </a></li>
 
+  <li> <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه انگلیسی </a></li>
+  <li> <a href="https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_CV_CheckList_AR_3991.pdf"> ارزیابی </a> </li>
 
-  <li> رزومه ی انگلیسی : <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه </a></li>
