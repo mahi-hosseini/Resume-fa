@@ -27,7 +27,7 @@
 <ul>
 <li>javascript</li>
   <li>java</li>
-  <li>ICDL<\li>
+  <li>ICDL</li>
   <li>C++</li>
   <li>C</li>
   <li>نقاشی</li>
