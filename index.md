@@ -45,7 +45,7 @@
 <br/>
 
 <h1> حساب های کاربری </h1>
-  <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc">https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc</a></li>
+  <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc"> _mahiii.h_ </a></li>
 
 
   <li> رزومه ی انگلیسی : <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه </a></li>
