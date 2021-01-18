@@ -48,6 +48,6 @@
   <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc"> صفحه ی شخصی </a></li>
   <li>اینستاگرام: <a href="https://instagram.com/_mahiii.art_?igshid=843xjbt2wstc"> صفحه ی نقاشی </a></li>
 
-  <li> <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه انگلیسی </a></li>
-  <li> <a href="https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_CV_CheckList_AR_3991.pdf"> ارزیابی </a> </li>
+  <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه انگلیسی </a>
+  <a href="https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_CV_CheckList_AR_3991.pdf"> ارزیابی </a>
 
