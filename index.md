@@ -47,6 +47,8 @@
 <h1> حساب های کاربری </h1>
   <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc"> صفحه ی شخصی </a></li>
   <li>اینستاگرام: <a href="https://instagram.com/_mahiii.art_?igshid=843xjbt2wstc"> صفحه ی نقاشی </a></li>
+   - [تلگرام](https://telegram.com/maya_h780)
+   - email Address: mhdiye.hosseini78@gmail.com
 <br>
   <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه انگلیسی </a>
 <br>
