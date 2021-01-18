@@ -12,14 +12,14 @@
 <li> نام خانوادگی: حسینی </li>
 <li> وضعیت تاهل: مجرد </li>
 <li> (تاریخ تولد: ۲۸/۱۲/۱۳۷۸ (۲۸ اسفند </li>
-<li>محل سکونت : شهرک جدید اندیشه </li>
+<li> محل سکونت : شهرک جدید اندیشه </li>
 
 </ul>
 
  <h1> تحصیلات </h1>
 <ul>
 <li> لیسانس مهندسی کامپیوتر : دانشگاه پیام نور شهریار </li>
-<li> دیپلم ریاضی و فیزیک: دبیرستان شایسته <li/> 
+<li> دیپلم ریاضی و فیزیک: دبیرستان شایسته </li> 
 </ul>
 
 <h1>مهارت ها</h1>
@@ -45,7 +45,7 @@
 <br/>
 
 <h1> حساب های کاربری </h1>
-  <li>اینستاگرام: <a href="https://instagram.com/_mahi.h_?igshid=843xjbt2wstc">https://instagram.com/_mahi.h_?igshid=843xjbt2wstc</a></li>
+  <li>اینستاگرام: <a href="https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc">https://instagram.com/_mahiii.h_?igshid=843xjbt2wstc</a></li>
 
 
   <li> رزومه ی انگلیسی : <a href="https://mahi-hosseini.github.io/Mahi-hoseini.github.io/"> رزومه </a></li>
